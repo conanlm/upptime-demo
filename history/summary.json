@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shiyouhuagong.com.cn.ico",
     "slug": "shiyouhuagong",
     "status": "down",
-    "uptime": "11.50%",
-    "uptimeDay": "11.50%",
-    "uptimeWeek": "11.50%",
-    "uptimeMonth": "11.50%",
-    "uptimeYear": "11.50%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 13
     }
   }
 ]
